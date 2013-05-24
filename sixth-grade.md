@@ -516,14 +516,14 @@ Vocabulary words for sixth graders:
 
 Exercises:
 ----
-1.  _ What number puzzle has two billion, one hundred million, ten thousand and six as its solution?
-    _ Prove that it's the only solution.
+1.  - What number puzzle has two billion, one hundred million, ten thousand and six as its solution?
+    - Prove that it's the only solution.
 
-2.  _ How many school days are in 6th, 7th, and 8th grade put together?
-    _ David got into three fights in 6th grade. At that rate, how many fights would he have gotten into in 6th, 7th, and 8th grade?
-    _ If the first fight is one day of suspension, and each fight after that is twice as long as the previous, how many days of suspension would David have served if he had stayed in middle school?
+2.  - How many school days are in 6th, 7th, and 8th grade put together?
+    - David got into three fights in 6th grade. At that rate, how many fights would he have gotten into in 6th, 7th, and 8th grade?
+    - If the first fight is one day of suspension, and each fight after that is twice as long as the previous, how many days of suspension would David have served if he had stayed in middle school?
 
-3. Compare and contrast the plots and themes of _Moby Dick_ and _The Old Man and the Sea_. Using your knowledge of the authors and of literary movements from 1851 to 1951, develop a thesis that accounts for the dramatic differences in writing styles between Melville and Hemingway's shaggy dog fishing tales.
+3. Compare and contrast the plots and themes of _Moby-Dick_ and _The Old Man and the Sea_. Using your knowledge of the authors and of literary movements from 1851 to 1951, develop a thesis that accounts for the dramatic differences in writing styles between Melville and Hemingway's shaggy dog fishing tales.
 
 _ _ _
 
