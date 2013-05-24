@@ -393,7 +393,7 @@ This was the last straw for my parents. They pulled me out of school and registe
 _ _ _
 
 Vocabulary words for sixth graders:
-====
+----
 1. Atrium
 1. Audacity
 1. Berserk
@@ -409,7 +409,7 @@ Vocabulary words for sixth graders:
 1. Role-playing
 
 Exercises:
-====
+----
 1.  _ What number puzzle has two billion, one hundred million, ten thousand and six as its solution?
     _ Prove that it's the only solution.
 
