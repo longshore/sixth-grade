@@ -1,6 +1,7 @@
 >"But whoso shall cause one of these little ones who believe in Me to fall, it were better for him that a millstone were hung about his neck, and that he were drowned in the depth of the sea."
 Matthew 18:6, KJ21
 
+
 >"Knocking him down won the first fight. I wanted to win all the next ones, too. So they'd leave me alone."
 -Ender Wiggen, _Ender's Game_
 
@@ -518,7 +519,7 @@ Exercises:
 ----
 1.  - What number puzzle has two billion, one hundred million, ten thousand and six as its solution?
     - Prove that it's the only solution.
-
+    
 2.  - How many school days are in 6th, 7th, and 8th grade put together?
     - David got into three fights in 6th grade. At that rate, how many fights would he have gotten into in 6th, 7th, and 8th grade?
     - If the first fight is one day of suspension, and each fight after that is twice as long as the previous, how many days of suspension would David have served if he had stayed in middle school?
