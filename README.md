@@ -1,6 +1,6 @@
 __Consider everything a very rough draft.__
 
-I'm still in the actively looking for feedback / review stage. If you have any feedback or reactions, I'd love to hear them. Please don't re-post or share on the public internet yet; I want to hold the buzz for one campaign around late July / early August 2013. (see [LICENSE.md] (/LICENSE.md) )
+I'm still in the actively looking for feedback / review stage. If you have any feedback or reactions, I'd love to hear them. Please don't re-post or share on the public internet yet.
 
 Goal
 ----
