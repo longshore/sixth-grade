@@ -3,3 +3,5 @@ _(extremely rough explanation)_ I don't think schools and adults have gotten _be
 I want to change the way we talk about bullying and children's social conflicts. I want adults to understand children's social conflicts enough to be compassionate, and not look for villains to punish. I want children to be surrounded by useful stories, not implicit suggestions that they need to figure out a way to one-up those who are antagonizing them in a climactic showdown.
 
 Content notes: mainly about bullying, brief discussion of self harm/death
+
+edit 2022: I've come to believe "smart" and "stupid" are either basically fake ideas, or worse-than-useless simplifications. If I were to share this now I'd want to redo the beginning to not rely on those concepts -- and to convey "developmentally behind agemates" without reducing it to the word "retarded".
